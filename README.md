@@ -1,6 +1,3 @@
-This project calculates how to settle group expenses with the **minimum number of transactions**.  
-It is implemented in **Java** with Maven and tested using **JUnit 5**.
-
 ---
 
 #Project Structure
