@@ -1,5 +1,3 @@
----
-
 #Project Structure
 
 ```
@@ -12,8 +10,6 @@ holiday-expenses-java/
 │ └── ExpensesTest.java
 └── pom.xml
 ```
-
----
 
 ##How to Run
 
